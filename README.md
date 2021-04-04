@@ -15,4 +15,6 @@ cd Word_list_Generator
 python passwords
 
 # Contact me
-Facebook <a href="https://fb.com/sweeterror404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sweeterror404" height="30" width="40" /></a>
+Facebook Account https://m.facebook.com/SWEETERROR404
+Join Facebook Group https://m.facebook.com/groups/sweeterror404/
+Github github.com/Sweeterror404 
