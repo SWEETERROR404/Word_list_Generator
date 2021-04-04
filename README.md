@@ -12,7 +12,7 @@ git clone https://github.com/SWEETERROR404/Word_list_Generator
 
 cd Word_list_Generator
 
-python passwords
+python passwords.py
 
 # Contact me
 Facebook Account https://m.facebook.com/SWEETERROR404
