@@ -9,5 +9,7 @@ than this tool create the list of password
 
 # Commands
 git clone https://github.com/SWEETERROR404/Word_list_Generator
+
 cd Word_list_Generator
+
 python passwords
