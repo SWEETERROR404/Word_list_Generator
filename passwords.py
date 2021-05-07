@@ -5,7 +5,7 @@ logo='''
 \___  . , , ,-. ,-. |-    |__  ,-. ,-. ,-. ,-. 
     \ |/|/  |-' |-' |    ,|    |   |   | | |   
 `---' ' '   `-' `-' `'   `^--- '   '   `-' ' 
-\t\t \033[1;33;40mAn Error is a Sweet Taste
+\t\033[1;33;40mAn Error is a Sweet Taste
 \033[1;32;40m\n▌│█║▌║▌║ \033[1;31;40m█▓▒░░ \033[1;34;40mMubeen Ahmad \033[1;31;40m░░▒▓█\033[1;32;40m ║▌║▌║█│▌\n\t-: Contact me on Facebook :-\n     \033[1;36;40mhttps://m.facebook.com/sweeterror404\033[1;32;40m\n\t-: my Github Account :- \n     \033[1;36;40mhttps://github.com/Sweeterror404\n\t\033[1;32;40m-: Join Facebook Group :-\n  \033[1;36;40mhttps://m.facebook.com/groups/sweeterror404
 '''
 print(logo)
